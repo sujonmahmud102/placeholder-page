@@ -1,4 +1,4 @@
-# React + Vite
+# Placeholder Page
 
 A placeholder page that signifies the site is currently under development.
 
